@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Tekshan98Madhawa
 - 👀 I’m interested in learning tech related things. 
-- 🌱 I’m currently learning java , C++ , C#
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning and mastering java. But interested in front end development also. 
+- 💞️ I’m looking to collaborate on front end projects.
 - 📫 How to reach me tekshanmadhawa324@gmail.com
 
 <!---
