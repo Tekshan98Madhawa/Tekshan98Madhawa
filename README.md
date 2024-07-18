@@ -1,3 +1,4 @@
+<img src="https://www.freepik.com/free-ai-image/3d-rendering-kid-playing-digital-game_72603692.htm#query=cartoon%20programmer&position=4&from_view=keyword&track=ais_user&uuid=52d26616-5e55-4c65-96d2-2285be3dcc85">
 <h1 align="center">Hi 👋, I'm Tekshan Madhawa</h1>
 <h3 align="center">A passionate frontend developer || Undergeaduate || Blogger</h3>
 
