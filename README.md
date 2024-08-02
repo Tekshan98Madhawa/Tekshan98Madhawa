@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tekshan98madhawa" alt="tekshan98madhawa" /></a> </p>
 
-- 🌱 I’m currently learning **React JS, Java ,C#, PHP , Python**
+- 🌱 I’m currently learning **React JS, Java ,C#, PHP , Python,Spring Boot**
 
 - 👯 I’m looking to collaborate on **Opensource Projects**
 
