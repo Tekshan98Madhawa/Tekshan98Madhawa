@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tekshan Madhawa</h1>
-<h3 align="center">A passionate frontend developer || Undergraduate || Tech Blogger</h3>
+<h3 align="center">A passionate frontend developer || Undergraduate || Tech Blogger || Open source contributer || Beginner Data Analyst</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tekshan98madhawa&label=Profile%20views&color=0e75b6&style=flat" alt="tekshan98madhawa" /> </p>
 
