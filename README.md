@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tekshan98madhawa" alt="tekshan98madhawa" /></a> </p>
 
-- 🌱 I’m currently Mastering **Java ,C#, PHP , Python,Spring Boot**
+- 🌱 I’m currently Mastering **IT Operations + AI**
 
 - 👯 I’m looking to collaborate on **Opensource Projects**
 
-- 💬 Ask me about **JS**
+- 💬 Ask me about **Python**
 
 - 📫 How to reach me **tekshanmadhawa324@gmail.com**
 
